@@ -2,7 +2,7 @@
 # Autor: Wagner Bizarro
 # Project: Firewall Iptables 
 # Date: 28 March 2022
-# Version.Release: 1.0
+# Version.Release: 2.0
 
 FirewallCommand=20
 
@@ -15,7 +15,7 @@ do
    case $FirewallCommand in
 
 	0)
-		echo "Bye!"
+		echo "Bye Bye!"
 		exit
 		;;
 
