@@ -1,4 +1,4 @@
-# firewall-iptables
+# firewalld
 **Autor :** *Wagner Bizarro*  
 The script can management firewalld to Linux OS base Red Hat:  
 1. Status Firewall
