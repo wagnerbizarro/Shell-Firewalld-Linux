@@ -1,6 +1,6 @@
 # firewall-iptables
 **Autor :** *Wagner Bizarro*  
-The script can management firewall iptables:  
+The script can management firewalld to Linux OS base Red Hat:  
 1. Status Firewall
 2. Stop/Start 
 3. Add ip/network/port
