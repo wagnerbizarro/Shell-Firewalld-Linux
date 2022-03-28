@@ -1,6 +1,6 @@
 #!/bin/bash
 # Autor: Wagner Bizarro
-# Project: Firewall Iptables 
+# Project: Firewalld
 # Date: 28 March 2022
 # Version.Release: 2.0
 

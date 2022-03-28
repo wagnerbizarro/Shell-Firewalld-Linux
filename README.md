@@ -10,5 +10,7 @@ The script can management firewalld to Linux OS base Red Hat:
 7. Show Rules
 0. Exit
 
-** Execute :** *./firewall.sh*
+** Execute :**  
+*./firewall.sh*  
+*sh firewall.sh*
 
