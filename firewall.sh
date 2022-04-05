@@ -9,7 +9,16 @@ FirewallCommand=20
 while [ $FirewallCommand -ne 0 ]
 do
    echo -e ""
-   read -p "1-Status/2-Stop/3-Start/4-Restart/5-Add/6-Remove/7-Show Rules/0-Exit:" FirewallCommand
+   read -p "
+   1-Status
+   2-Stop
+   3-Start
+   4-Restart
+   5-Add
+   6-Remove
+   7-Show Rules
+   0-Exit
+   :" FirewallCommand
 
 
    case $FirewallCommand in
